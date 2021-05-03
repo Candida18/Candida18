@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://candida18.github.io](https://candida18.github.io)
 
-- 📫 How to reach me **noronha.candida@gmail.com**
+- 📫 How to reach me **candida.noronha18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
