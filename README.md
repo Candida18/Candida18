@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=flat" alt="candida18" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://candida18.github.io](https://candida18.github.io)
+- 👨‍💻 All of my projects are available at [https://candida-noronha.web.app/ ](https://candida-noronha.web.app/) 
 
 - 📫 How to reach me **candida.noronha18@gmail.com**
 
