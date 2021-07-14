@@ -75,12 +75,25 @@
 <h4 align="left">• Graphic Designing :</h4>
 <p align="left"> 
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
+    <img src="https://www.adobe.com/content/dam/cc/icons/illustrator.svg" alt="illustrator" width="40" height="40"/> 
   </a> 
   &emsp;
-  <a href="https://www.invisionapp.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> 
+  <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"> 
+    <img src="https://www.adobe.com/content/dam/cc/us/en/creativecloud/max2020/mnemonics/indesign.svg" alt="indesign" width="40" height="40"/> 
   </a> 
+    &emsp;
+  <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
+    <img src="https://www.adobe.com/content/dam/cc/icons/lightroom-cc.svg" alt="lightroom" width="40" height="40"/> 
+  </a>
+   &emsp;
+  <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> 
+    <img src="https://www.adobe.com/content/dam/cc/icons/premiere.svg" alt="premierepro" width="40" height="40"/> 
+  </a>
+    &emsp;
+  <a href="  https://www.adobe.com/in/products/premiere-rush.html" target="_blank"> 
+    <img src="https://www.adobe.com/content/dam/cc/icons/premiere-rush.svg" alt="premiererush" width="40" height="40"/> 
+  </a>
+  
 </p>
 <h4 align="left">• Other :</h4>
 <p align="left"> 
@@ -90,6 +103,10 @@
   &emsp;
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a>
+  &emsp;
+  <a href="https://firebase.google.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
   </a> 
 </p>
 
