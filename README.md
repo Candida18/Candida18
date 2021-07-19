@@ -110,8 +110,8 @@
   </a> 
 </p>
 
-<p><img align="cemter" src="https://github-readme-stats.vercel.app/api/top-langs?username=candida18&show_icons=true&locale=en&layout=compact" alt="candida18" /></p>
+<!--<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=candida18&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" /-->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=candida18&show_icons=true&locale=en" alt="candida18" /></p>
+<p align="right"><img src="https://github-readme-stats.vercel.app/api?username=candida18&show_icons=true&locale=en&theme=algolia" alt="candida18" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=candida18&" alt="candida18" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=candida18&theme=algolia" alt="candida18" /></p>
