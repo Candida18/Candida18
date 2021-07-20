@@ -125,7 +125,7 @@
 
 <br/>
 
-## 📊 Github Stats
+## 📊 Github Stats (Expand to View) 
 
 
 <details> 
