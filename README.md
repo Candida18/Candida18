@@ -61,7 +61,7 @@
 ### 👉 Databases & Cloud Hosting
 <p align="left">
   &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-white.svg?style=flat&logo=mysql&logoColor=blue"></a>
   &emsp;
     <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a>
   &emsp;
@@ -82,11 +82,11 @@
   </a> 
   &emsp;
   <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"> 
-    <img alt="Adobe Indesign" src="https://img.shields.io/badge/Adobe Indesign-%e749a0.svg?style=flat&logo=adobeindesign&logoColor=white"/> 
+    <img alt="Adobe Indesign" src="https://img.shields.io/badge/Adobe Indesign-magenta.svg?style=flat&logo=adobeindesign&logoColor=white"/> 
   </a> 
     &emsp;
   <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
-    <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe Lightroom-%2300f.svg?style=flat&logo=adobelightroom&logoColor=white"/>
+    <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe Lightroom-blue.svg?style=flat&logo=adobelightroom&logoColor=white"/>
   </a>
    &emsp;
   <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> 
